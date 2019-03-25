@@ -1,4 +1,4 @@
-*Read this in other languages: [中国](README-cn.md), [한국어](README-ko.md), [日本](README-ja.md), [português](README-pt.md), [Türkçe](README-tr.md), [İngilizce](README.md)
+*Bunu diğer dillerde oku: [中国](README-cn.md), [한국어](README-ko.md), [日本](README-ja.md), [português](README-pt.md), [Türkçe](README-tr.md), [İngilizce](README.md)
 # Marbles Demo
 
 ## Marbles Hakkında..
