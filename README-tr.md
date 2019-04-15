@@ -12,4 +12,4 @@
 Çok sayıda Marble çeşidi vardır. Bu sürüm ** Hyperledger Fabric v1.1x ** ile uyumludur.
 
 # Uygulama Arkaplanı
- bu uygulama Hyperledger Kumaştan yararlanan birçok Marble sahibi arasında Marble transferini gösterecek.Bunu Node.js'de ve bir miktar GoLang'da yapacağız.
+ Bu uygulama Hyperledger'dan yararlanan birçok Marble sahibi arasında Marble transferini gösterecek.Bunu Node.js'de ve bir miktar GoLang'da yapacağız.Bu uygulamanın arka ucu, blockchain ağımızda çalışan GoLang kodu olacaktır. Bundan sonra GoLang kodu 'Blockchain' veya 'cc' olarak adlandırılacaktır. Blockchain kendisi, Blockchain durumuna depolayarak bir Marble yaratacaktır. Zincir kodun kendisi verileri bir anahtar / değer çifti ayarında bir dize olarak saklayabilir. Bu nedenle, daha karmaşık yapıları depolamak için JSON nesnelerini dizileyeceğiz.
