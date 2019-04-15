@@ -13,3 +13,14 @@
 
 # Uygulama Arkaplanı
  Bu uygulama Hyperledger'dan yararlanan birçok Marble sahibi arasında Marble transferini gösterecek.Bunu Node.js'de ve bir miktar GoLang'da yapacağız.Bu uygulamanın arka ucu, blockchain ağımızda çalışan GoLang kodu olacaktır. Bundan sonra GoLang kodu 'Blockchain' veya 'cc' olarak adlandırılacaktır. Blockchain kendisi, Blockchain durumuna depolayarak bir Marble yaratacaktır. Zincir kodun kendisi verileri bir anahtar / değer çifti ayarında bir dize olarak saklayabilir. Bu nedenle, daha karmaşık yapıları depolamak için JSON nesnelerini dizileyeceğiz.
+
+ Marbles Özellikleri:
+
+  1. ID (benzeri olmayan bir dize, anahtar olarak kullanılacak).
+  2. Renk (dize, css renk adları).
+  3. Boyut (mm olarak Boyut).
+  4. Diziye sahip olmak.
+
+Bu değerleri ayarlayabilecek ve blockchain defterinde saklayabilecek bir UI(arayüz) oluşturacağız.
+Marble gerçekten önemli bir değer çifti.
+“Anahtar” Marble kimliğidir ve “değer” Marble özelliklerini içeren bir JSON dizesidir (yukarıda listelenmiştir).
